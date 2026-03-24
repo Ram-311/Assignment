@@ -1,4 +1,4 @@
-# AI Sales Tools — Hackathon Project
+# AI  Project
 
 Two AI-powered tools built to enhance sales and customer interactions.
 
